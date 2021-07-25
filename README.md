@@ -26,7 +26,7 @@ Todos nós podemos fazer a diferença, mas juntos somos mais fortes!
 ### Métodologia: 
 
 Conversando com os mentores [Zeca Novaes](https://www.linkedin.com/in/zeca-novaes/) , [Fabiano NagaMatsu](https://www.linkedin.com/in/fabianonagamatsu/) e estudando muito os produtos IBMs , foi possível:
-- Usar uma arquitetura frequentemente comentada na documentação IBM CLOUD ![Arquitetura Inicial](./arquitetura.jpeg)
+- Usar uma arquitetura frequentemente comentada na documentação IBM CLOUD ![Arquitetura Inicial](./images/ARQUITETURA-domingo.jpeg)
 - A construção do **"Produto Minimo"**
 - A construção do **"Produto Minimo"**
 
