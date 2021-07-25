@@ -1,6 +1,8 @@
 # Call for Code 2021 [#callforcode](https://www.linkedin.com/feed/hashtag/callforcode/)
 ### Uma semana de muita diversão:
 
+Somos o "Grupo 4", conformado por:
+
 - [Zivile](https://www.linkedin.com/in/zivile-valutyte-silveira/)
 - [Elaine Lemos](https://www.linkedin.com/in/julian-gamboa-bahia/)
 - [Rodrigo Fukugauti](https://www.linkedin.com/in/rodrigofukugauti/)
@@ -34,8 +36,7 @@ Zibile projetou uma arquitetura cloud inicial focado na **"BlueMIX"**
 
 ### Video Pitch 
 
-- Necessidades urgentes- 
-- 
+[![Picth Grupo 4](https://img.youtube.com/vi/JNEpgZO5-zQ/0.jpg)](https://www.youtube.com/watch?v=JNEpgZO5-zQ)
 
 ### Vídeo Demo
 ### Apresentação 
