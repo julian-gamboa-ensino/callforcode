@@ -20,15 +20,11 @@ def image():
     is_file_saved = save_data.execute(image_sent.filename, img_file_path, image_info)
     
     os.remove(img_file_path)
+    
     if is_file_saved:
         return jsonify(image_info)
     else:
         return 'Error'
-    
-
-@app.route('/get_results', methods=['GET'])
-def get_results():
-    save_data.execute()
     
     
 if __name__ == '__main__':

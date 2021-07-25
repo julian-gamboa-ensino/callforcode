@@ -51,32 +51,35 @@ def execute(filename, img_file_path, company):
     except:
         latitude = None
         longitude = None
-            
-    # Instantiates a client
-    config_file_path = os.path.join('config', 'vision_credentials.json')
-    client = vision.ImageAnnotatorClient.from_service_account_json(
-        config_file_path)
+    
+    try:      
+        # Instantiates a client
+        config_file_path = os.path.join('config', 'vision_credentials.json')
+        client = vision.ImageAnnotatorClient.from_service_account_json(
+            config_file_path)
 
-    # Loads the image into memory
-    with io.open(img_file_path, 'rb') as image_file:
-        content = image_file.read()
+        # Loads the image into memory
+        with io.open(img_file_path, 'rb') as image_file:
+            content = image_file.read()
 
-    image = vision.Image(content=content)
+        image = vision.Image(content=content)
 
-    # Performs label detection on the image file
-    response = client.label_detection(image=image)
-    labels = response.label_annotations
+        # Performs label detection on the image file
+        response = client.label_detection(image=image)
+        labels = response.label_annotations
 
-    #print('Labels:')
-    label_list = []
-    for label in labels:
-        if label.score > 0.7:
-            if ('water' in label.description.lower()) or ('waste' in label.description.lower()) \
-                or ('bottle' in label.description.lower()) or ('plastic' in label.description.lower()) \
-                    or ('pollution' in label.description.lower()):
-                
-                label_list.append(label.description)
-                
+        #print('Labels:')
+        label_list = []
+        for label in labels:
+            if label.score > 0.7:
+                if ('water' in label.description.lower()) or ('waste' in label.description.lower()) \
+                    or ('bottle' in label.description.lower()) or ('plastic' in label.description.lower()) \
+                        or ('pollution' in label.description.lower()):
+                    
+                    label_list.append(label.description)
+    except:
+        label_list = [] 
+                   
     return {
         'latitude': latitude,
         'longitude': longitude,
