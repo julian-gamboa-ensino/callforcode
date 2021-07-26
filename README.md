@@ -13,15 +13,14 @@ Somos o "Grupo 4", conformado por:
 
 ### Introdução: 
 
-Mudança climática já está acontecendo e tem potencial de afetar a vida de cada um. Todos nós temos a responsabilidade de procurar a melhor maneira de consumir, de produzir, de preservar nosso meio ambiente e seus recursos. Temos que ser conscientes de suas ações, atentos ao nosso impacto, pequeno que pensamos que seja. A sinergia das ações individuais move a comunidade e cria impacto considerável na aplicação das leis e regulamentações. A pressão da comunidade contribui diretamente com aumento da produção compatível com as melhores práticas da produção consciente, especialmente no nível da produção industrial e grande escala.
-
-Pensando nisso, nós imaginamos um aplicativo de celular que através da tecnologia do Watson Assistant, da geolocalização e reconhecimento de imagens coleta observações, queixas e denúncias dos crimes ambientais e direciona elas para as instituições ou grupos responsáveis pelas aplicações das medidas necessárias. Esses registros depois de identificados e processados iam ser direcionados para os órgãos ou grupos responsáveis e acompanhados pela pessoa que os iniciou. Também teríamos um website de apoio. Cada um poderia ser observador consciente e atento e registar um despejo irregular no solo ou nas águas, queimada irresponsável ou qualquer outro tipo de crime ambiental.
+Mudança climática já está acontecendo e tem potencial de afetar a vida de cada um. Todos nós temos a responsabilidade de procurar a melhor maneira de consumir, de produzir, de preservar nosso meio ambiente e seus recursos. Temos que ser conscientes de suas ações, atentos ao nosso impacto, pequeno que pensamos que seja. A sinergia das ações individuais move a comunidade e cria impacto considerável na aplicação das leis e regulamentações. A pressão da comunidade contribui diretamente com aumento da produção compatível com as melhores práticas da produção consciente especialmente no nível da produção industrial e grande escala.
+ Pensando nisso, criamos o Tellus, um aplicativo capaz de coletar observações através da tecnologia do Watson Assistant, da geolocalização através do reconhecimento de metadados das imagens coletadas e da classificação do conteúdo usando a API Google Vision, sendo que todos os dados são armazenados no IBM Cloud Object Storage. O processamento das informações é realizado via API instanciada usando o recurso Cloud Foundry na IBM Cloud.
+Assim, possibilitando o envio de queixas e denúncias de crimes ambientais através da nossa chatbot, Tais: Tellus Artificial Intelligence Service. Com ela, é possível fazer sua denúncia em total anonimato e de forma descomplicada e muito intuitiva. Esses dados são direcionados para as instituições e grupos responsáveis pelas aplicações das medidas necessárias e posteriormente são retornados e disponibilizados para acompanhamento pelo nosso website, também são exibidos em forma de rankeamento de empresas com seus respectivos impactos categorizados.
 
 Além dessa funcionalidade, nós queremos envolver a comunidade com os desafios sobre a sustentabilidade (exemplos como a segunda sem carne, montagem da composteira) e compartilhar as melhores práticas. Para incentivar ainda mais gostaríamos de envolver os usuários no jogo e uma coleta de recompensas. Procuramos criar um lugar onde poderíamos nos inspirar e melhorar nossa maneira de consumir, produzir e preservar nosso meio ambiente.
-
 Coletando os dados sobre denúncias, queixas e os sentimentos dos usuários seria possível oferecer insights para que as empresas possam melhorar os pontos da sua cadeia de produção mais expostos e sensíveis e aumentar o valor das marcas demonstrando a preocupação e o alinhamento com os valores que são importantes para o nosso meio ambiente. Um ganho para os dois lados.
 
-Todos nós podemos fazer a diferença, mas juntos somos mais fortes!
+**Todos nós podemos fazer a diferença, mas juntos somos mais fortes!**
  
  [![Picth Grupo 4](https://img.youtube.com/vi/VhdMBap1FDk/0.jpg)](https://www.youtube.com/watch?v=VhdMBap1FDk)
 
@@ -30,6 +29,7 @@ Todos nós podemos fazer a diferença, mas juntos somos mais fortes!
 Conversando com os mentores [Zeca Novaes](https://www.linkedin.com/in/zeca-novaes/) , [Fabiano NagaMatsu](https://www.linkedin.com/in/fabianonagamatsu/) e estudando muito os produtos IBMs , foi possível:
 - Usar uma arquitetura frequentemente comentada na documentação IBM CLOUD ![Arquitetura Inicial](./images/ARQUITETURA-logo.jpeg)
 - A construção do **"Produto Minimo"** integrando tanto o backend como o frontend desenvolvido de forma separada.
+- A construção do backend deste **"Produto Minimo"** permitiou aproveitar os aprendizados conquistadas nas edições anteriores da [Maratona IBM BHTC 2020 e 2021](https://maratona.dev/en), usando assim diversos serviços e produtos da cloud IBM.
 
 ### Produto Informático: 
 
@@ -41,7 +41,7 @@ Sem dúvida que não serão poucos os aprimoramentos e futuras versões deste si
 
 ### Resumo: 
 
-Faltando uma semana para o evento [GLOBAL](https://developer.ibm.com/callforcode/) esperamos ter aceitação de jurados e mentores para poder continuar neste interessante desafío onde a informática é usada para desenvolver uma ferramenta socio-ambiental.
+Faltando uma semana para o fechamento do evento [GLOBAL](https://developer.ibm.com/callforcode/) esperamos ter aceitação de jurados e mentores e assim poder continuar neste interessante desafío onde a informática é usada para desenvolver uma ferramenta socio-ambiental.
 
 
 
