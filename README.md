@@ -31,7 +31,11 @@ Conversando com os mentores [Zeca Novaes](https://www.linkedin.com/in/zeca-novae
 
 ### Produto Informático: 
 
-Um sistema de fácil acesso, desde qualquer dispositivo que teha internet seja telefone celular Smartfone ou computador tradicional Desktop , para registrar e centralizar eventualidades relacionadas com o meio ambiente, severos desequilibros climáticos, etc.
+Um sistema de fácil acesso, desde qualquer dispositivo que tenha internet seja telefone celular Smartphone ou computador tradicional Desktop , para registrar e centralizar eventualidades relacionadas com o meio ambiente, severos desequilíbrios climáticos, etc.
+
+Foi mantido como critério essencial de desenho a "simplicidade da interface de usuário" motivo pelo qual foram trabalhadas telas responsivas e um "chatbot" para criar um diálogo simples, fácil para qualquer público seja este da "zona rural" ou das grandes metrópoles.
+
+Sem dúvida que não serão poucos os aprimoramentos e futuras versões deste sistema motivados pela ampla utilidade socio-ambiental do mesmo, e considerando que o problema socio-ambiental que tenta contornar é um problema complexo com diversas interpretações. Um dos aprimoramentos está relacionado com a inteligência artificial atrelada ao chatbot que pode ser ajustadas conforme cada "idiossincrasia regional".
 
 ### Resumo: 
 
