@@ -10,15 +10,22 @@ Somos o "Grupo 4", conformado por:
 - [Julian Gamboa](https://www.linkedin.com/in/julian-gamboa-bahia/)
 
 
-
 ### Introdução: 
 
-Mudança climática já está acontecendo e tem potencial de afetar a vida de cada um. Todos nós temos a responsabilidade de procurar a melhor maneira de consumir, de produzir, de preservar nosso meio ambiente e seus recursos. Temos que ser conscientes de suas ações, atentos ao nosso impacto, pequeno que pensamos que seja. A sinergia das ações individuais move a comunidade e cria impacto considerável na aplicação das leis e regulamentações. A pressão da comunidade contribui diretamente com aumento da produção compatível com as melhores práticas da produção consciente especialmente no nível da produção industrial e grande escala.
- Pensando nisso, criamos o Tellus, um aplicativo capaz de coletar observações através da tecnologia do Watson Assistant, da geolocalização através do reconhecimento de metadados das imagens coletadas e da classificação do conteúdo usando a API Google Vision, sendo que todos os dados são armazenados no IBM Cloud Object Storage. O processamento das informações é realizado via API instanciada usando o recurso Cloud Foundry na IBM Cloud.
-Assim, possibilitando o envio de queixas e denúncias de crimes ambientais através da nossa chatbot, Tais: Tellus Artificial Intelligence Service. Com ela, é possível fazer sua denúncia em total anonimato e de forma descomplicada e muito intuitiva. Esses dados são direcionados para as instituições e grupos responsáveis pelas aplicações das medidas necessárias e posteriormente são retornados e disponibilizados para acompanhamento pelo nosso website, também são exibidos em forma de rankeamento de empresas com seus respectivos impactos categorizados.
 
-Além dessa funcionalidade, nós queremos envolver a comunidade com os desafios sobre a sustentabilidade (exemplos como a segunda sem carne, montagem da composteira) e compartilhar as melhores práticas. Para incentivar ainda mais gostaríamos de envolver os usuários no jogo e uma coleta de recompensas. Procuramos criar um lugar onde poderíamos nos inspirar e melhorar nossa maneira de consumir, produzir e preservar nosso meio ambiente.
-Coletando os dados sobre denúncias, queixas e os sentimentos dos usuários seria possível oferecer insights para que as empresas possam melhorar os pontos da sua cadeia de produção mais expostos e sensíveis e aumentar o valor das marcas demonstrando a preocupação e o alinhamento com os valores que são importantes para o nosso meio ambiente. Um ganho para os dois lados.
+Mudanças climáticas já estão acontecendo e tem potencial de afetar a vida de cada um de nós.
+Segundo relatório do Painel Intergovernamental sobre Mudanças Climáticas, estima-se que caso as atividades humanas continuem com a aceleração do impacto ambiental atual, o aquecimento global atinja 1,5 graus celsius entre 2030 e 2052.
+Todos nós temos a responsabilidade de procurar a melhor maneira de consumir, produzir e preservar nosso meio ambiente e seus recursos. 
+A pressão da comunidade contribui diretamente com o aumento da produção compatível com as melhores práticas do consumo consciente, especialmente no nível da produção industrial em larga escala.
+
+Pensando nisso, criamos o Tellus, um aplicativo capaz de coletar observações através da tecnologia do Watson Assistant, da geolocalização através do reconhecimento de metadados das imagens coletadas e da classificação do conteúdo usando a API Google Vision, sendo que todos os dados são armazenados no IBM Cloud Object Storage. O processamento das informações é realizado via API instanciada usando o recurso Cloud Foundry. Assim, possibilitando o envio de queixas e denúncias de crimes ambientais através da nossa chatbot, Tais: Tellus Artificial Intelligence Service. Com ela, é possível fazer sua denúncia em total anonimato, de forma descomplicada e muito intuitiva. Esses dados são direcionados para as instituições e grupos responsáveis pelas aplicações das medidas necessárias e posteriormente são retornados e disponibilizados para acompanhamento pelo nosso website, também são exibidos em forma de rankeamento de empresas com seus respectivos impactos categorizados.
+
+Além dessa funcionalidade, o aplicativo promove desafios sobre sustentabilidade e desenvolvimento pessoal garantindo recompensas, numa dinâmica gameficada, nosso app foi feito para uma comunidade de pessoas que buscam ser conscientes de suas ações e atentas ao impacto ambiental. 
+
+E não para por aí, a plataforma também permite o cadastramento de empresas, que podem não só cumprir desafios para melhorar sua posição no rankeamento e obter recompensas, mas também denunciar outras empresas e concorrentes.
+Buscamos criar um ambiente onde todos possam se inspirar e levar uma vida mais sustentável.
+
+Por fim, o aplicativo estabelece como sua proposta comercial, a oferta de consultoria para as empresas através da coleta de queixas dos usuários, garantindo cuidado com os pontos da sua cadeia de produção mais sensíveis e expostos. Somando valor ao produto e demonstrando o alinhamento da marca com os valores que são exigidos pelo mercado para um desenvolvimento sustentável.
 
 **Todos nós podemos fazer a diferença, mas juntos somos mais fortes!**
  
