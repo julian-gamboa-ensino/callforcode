@@ -6,7 +6,7 @@ Somos o "Grupo 4", conformado por:
 - [Zivile](https://www.linkedin.com/in/zivile-valutyte-silveira/)
 - [Elaine Lemos](https://www.linkedin.com/in/julian-gamboa-bahia/)
 - [Rodrigo Fukugauti](https://www.linkedin.com/in/rodrigofukugauti/)
-- [Lucas](https://www.linkedin.com/in/julian-gamboa-bahia/)
+- [Lucas Luz](https://www.linkedin.com/in/julian-gamboa-bahia/)
 - [Julian Gamboa](https://www.linkedin.com/in/julian-gamboa-bahia/)
 
 
@@ -30,6 +30,7 @@ Conversando com os mentores [Zeca Novaes](https://www.linkedin.com/in/zeca-novae
 - Usar uma arquitetura frequentemente comentada na documentação IBM CLOUD ![Arquitetura Inicial](./images/ARQUITETURA-logo.jpeg)
 - A construção do **"Produto Minimo"** integrando tanto o backend como o frontend desenvolvido de forma separada.
 - A construção do backend deste **"Produto Minimo"** permitiou aproveitar os aprendizados conquistadas nas edições anteriores da [Maratona IBM BHTC 2020 e 2021](https://maratona.dev/en), usando assim diversos serviços e produtos da cloud IBM.
+- A construção do front-end deste **"Produto Minimo"** .
 
 ### Produto Informático: 
 
