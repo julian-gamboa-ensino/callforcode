@@ -23,6 +23,8 @@ Coletando os dados sobre denúncias, queixas e os sentimentos dos usuários seri
 
 Todos nós podemos fazer a diferença, mas juntos somos mais fortes!
 
+ [![Picth Grupo 4](https://img.youtube.com/vi/VhdMBap1FDk)](https://www.youtube.com/watch?v=VhdMBap1FDk)
+
 ### Métodologia: 
 
 Conversando com os mentores [Zeca Novaes](https://www.linkedin.com/in/zeca-novaes/) , [Fabiano NagaMatsu](https://www.linkedin.com/in/fabianonagamatsu/) e estudando muito os produtos IBMs , foi possível:
