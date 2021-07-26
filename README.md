@@ -22,8 +22,8 @@ Além dessa funcionalidade, nós queremos envolver a comunidade com os desafios 
 Coletando os dados sobre denúncias, queixas e os sentimentos dos usuários seria possível oferecer insights para que as empresas possam melhorar os pontos da sua cadeia de produção mais expostos e sensíveis e aumentar o valor das marcas demonstrando a preocupação e o alinhamento com os valores que são importantes para o nosso meio ambiente. Um ganho para os dois lados.
 
 Todos nós podemos fazer a diferença, mas juntos somos mais fortes!
-
- [![Picth Grupo 4](https://img.youtube.com/vi/VhdMBap1FDk)](https://www.youtube.com/watch?v=VhdMBap1FDk)
+ 
+ [![Picth Grupo 4](https://img.youtube.com/vi/VhdMBap1FDk/0.jpg)](https://www.youtube.com/watch?v=VhdMBap1FDk)
 
 ### Métodologia: 
 
