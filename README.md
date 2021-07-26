@@ -32,7 +32,7 @@ Conversando com os mentores [Zeca Novaes](https://www.linkedin.com/in/zeca-novae
 - Usar uma arquitetura frequentemente comentada na documentação IBM CLOUD ![Arquitetura Inicial](./images/ARQUITETURA-logo.jpeg)
 - A construção do **"Produto Minimo"** integrando tanto o backend como o frontend desenvolvido de forma separada.
 - A construção do backend deste **"Produto Minimo"** permitiou aproveitar os aprendizados conquistadas nas edições anteriores da [Maratona IBM BHTC 2020 e 2021](https://maratona.dev/en), usando assim diversos serviços e produtos da cloud IBM.
-- A construção do front-end deste **"Produto Minimo"** .
+- A construção do front-end deste **"Produto Minimo"** foi focada na tecnologia HTML dado que era preciso trabalhar de forma remota com máxima simplicidade. Seguidamente será usado o poderosso framewrok Angular aproveitando a facilidade de migração dos códigos HTML já testados e usados para o sistema Angular. 
 
 ### Produto Informático: 
 
