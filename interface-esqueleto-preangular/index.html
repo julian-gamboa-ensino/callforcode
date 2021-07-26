@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <div class="container">
+        <!-- Example row of columns -->
+        <div class="row">
+          <div class="col-md-4">
+<!-- Texto 1 -->              
+            <h2>O problema Geral</h2>
+<p>Mudança climática já está acontecendo e tem potencial de afetar a vida de cada um. Todos nós temos a responsabilidade de procurar a melhor maneira de consumir, de produzir, de preservar nosso meio ambiente e seus recursos. Temos que ser conscientes de suas ações, atentos ao nosso impacto, pequeno que pensamos que seja. A sinergia das ações individuais move a comunidade e cria impacto considerável na aplicação das leis e regulamentações que já existem para proteger o meio ambiente e promove  a criação das novas e atualizadas ações.</p>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+          <div class="col-md-4">
+<!-- Texto 2 -->                            
+            <h2>Nossa proposta informática</h2>
+<p>Pensando nisso, nós imaginamos um aplicativo que através da tecnologia do Watson Assistant, da geolocalização e reconhecimento de imagens coleta observações, queixas e denúncias dos crimes ambientais e direciona elas para as instituições ou grupos responsáveis para aplicações das medidas necessárias. Cada um poderia ser observador consciente e atento e registar um despejo irregular no solo ou nas águas, queimada irresponsável ou qualquer outro tipo de crime ambiental.</p>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+          <div class="col-md-4">
+<!-- Texto 3 -->                            
+            <h2>Uma necessária integração </h2>
+<p>Esses registros depois de identificados, confirmados e processados iam ser direcionados para os órgãos responsáveis e acompanhados pela pessoa que os iniciou. Assim aumentamos a pressão comunitária para que os grandes e pequenos produtores de poluição possam continuar no caminho da produção consciente e sustentável. Cada de nós podemos fazer a diferença, mas juntos somos mais fortes!</p>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+        </div>
+
+
+
+<!----
+
+  ----->
+  <script>
+    window.watsonAssistantChatOptions = {
+        integrationID: "83c3a5e7-58b7-4055-af37-6ee84ec07551", // The ID of this integration.
+        region: "us-south", // The region your integration is hosted in.
+        serviceInstanceID: "8518a24e-f53c-4436-bd14-b566461c2c52", // The ID of your service instance.
+        onLoad: function(instance) { instance.render(); }
+      };
+    setTimeout(function(){
+      const t=document.createElement('script');
+      t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+      document.head.appendChild(t);
+    });
+  </script>
+
+<!----
+
+  ----->
+
+</body>
+</html>
+
+

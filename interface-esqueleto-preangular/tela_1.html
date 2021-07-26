@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comunicações</title>
+
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+
+<style>
+  *{
+    font-family: SeoulHangang CEB;
+  }
+</style>
+
+</head>
+<body>
+
+<div class="jumbotron text-center" style="background-color:  #399F8D">
+  <img src="tellus.png" style="height: 11vh">
+<br>
+</div>
+      
+      <div class="container">
+        <div class="row ">
+          <div class="col-sm-4">
+            <p>
+<!-- Latest compiled JavaScript -->
+            </p>
+</div>
+
+<div class="col-sm-4" >
+  <h3>Prezados Usuári@</h3>
+  <br>  
+Fique a vontade para nós comentar a sua preocupação ambiental
+  <form>
+    <div class="mb-3">
+
+<label for="exampleInputEmail1" class="form-label">
+Nome  (anonimato garantido)
+</label><input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+
+<label for="exampleInputEmail1" class="form-label">
+Comentário
+</label>
+<textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+
+
+<label class="form-label">
+  Endereço (Muncipio)
+</label><input></input>
+<br>
+<label class="form-label">
+  Endereço (Bairro)
+</label><input></input>
+<label class="form-label" >
+  Endereço (Rua)
+</label><input></input>
+<br>
+<label class="form-label">
+  Endereço (CEP)
+</label><input></input>
+<br>
+
+</div>
+    <button type="submit" class="btn btn-primary">Enviar Informações</button>
+    <br>
+    <button>Anexar o documento</button> 
+</form>
+
+  
+</div>
+<div class="col-sm-4">
+  <p>
+<!-- Latest compiled JavaScript -->
+  </p>
+</div>
+        </div>
+      </div>
+
+
+
+<div class="jumbotron text-center" style="background-color:  white">
+<a style="color:#399F8D" 
+href="http://hackaton2021.s3-website.us-east-2.amazonaws.com/tela_3.html" role="button">
+          Pular
+<br>
+          (ver relátorio de notícias ambientais)
+</a>        
+<br>
+</div>
+
+
+      <script>
+        window.watsonAssistantChatOptions = {
+            integrationID: "92b0d629-1f6d-406f-97d0-35bbd855e482", // The ID of this integration.
+            region: "eu-de", // The region your integration is hosted in.
+            serviceInstanceID: "3c7016f6-fd60-4346-ad6c-602277021062", // The ID of your service instance.
+            onLoad: function(instance) { instance.render(); }
+          };
+        setTimeout(function(){
+          const t=document.createElement('script');
+          t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+          document.head.appendChild(t);
+        });
+      </script>
+
+</body>
