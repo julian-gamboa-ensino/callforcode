@@ -27,26 +27,19 @@ Todos nós podemos fazer a diferença, mas juntos somos mais fortes!
 
 Conversando com os mentores [Zeca Novaes](https://www.linkedin.com/in/zeca-novaes/) , [Fabiano NagaMatsu](https://www.linkedin.com/in/fabianonagamatsu/) e estudando muito os produtos IBMs , foi possível:
 - Usar uma arquitetura frequentemente comentada na documentação IBM CLOUD ![Arquitetura Inicial](./images/ARQUITETURA-domingo.jpeg)
-- A construção do **"Produto Minimo"**
-- A construção do **"Produto Minimo"**
+- A construção do **"Produto Minimo"** integrando tanto o backend como o frontend desenvolvido de forma separada.
+
+### Produto Informático: 
+
+Um sistema de fácil acesso, desde qualquer dispositivo que teha internet seja telefone celular Smartfone ou computador tradicional Desktop , para registrar e centralizar eventualidades relacionadas com o meio ambiente, severos desequilibros climáticos, etc.
+
+### Resumo: 
+
+Faltando uma semana para o evento [GLOBAL](https://developer.ibm.com/callforcode/) esperamos ter aceitação de jurados e mentores para poder continuar neste interessante desafío onde a informática é usada para desenvolver uma ferramenta socio-ambiental.
 
 
 
-Zibile projetou uma arquitetura cloud inicial focado na **"BlueMIX"** 
 
-### Video Pitch 
 
-[![Picth Grupo 4](https://img.youtube.com/vi/JNEpgZO5-zQ/0.jpg)](https://www.youtube.com/watch?v=JNEpgZO5-zQ)
 
-### Vídeo Demo
-### Apresentação 
-### Link público do repositório
-### Link da solução
-##### Print de Confirmação do envio da sua solução no Call for Code Global
-- Equipe que se integrou com a melhor vontade em menos de uma semana.
-- 
-##### Print de Confirmação do envio da sua solução no Call for Code Global
 
-Chek list:
-
-https://developer.ibm.com/callforcode/blogs/call-code-last-minute-submission-checklist/
