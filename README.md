@@ -6,7 +6,7 @@ Somos o "Grupo 4", conformado por:
 - [Zivile](https://www.linkedin.com/in/zivile-valutyte-silveira/)
 - [Elaine Lemos](https://www.linkedin.com/in/julian-gamboa-bahia/)
 - [Rodrigo Fukugauti](https://www.linkedin.com/in/rodrigofukugauti/)
-- [Lucas Luz](https://www.linkedin.com/in/julian-gamboa-bahia/)
+- [Luca Luz](https://www.linkedin.com/in/luc4luz)
 - [Julian Gamboa](https://www.linkedin.com/in/julian-gamboa-bahia/)
 
 
@@ -22,7 +22,9 @@ Coletando os dados sobre denúncias, queixas e os sentimentos dos usuários seri
 
 **Todos nós podemos fazer a diferença, mas juntos somos mais fortes!**
  
- [![Picth Grupo 4](https://img.youtube.com/vi/VhdMBap1FDk/0.jpg)](https://www.youtube.com/watch?v=VhdMBap1FDk)
+ [![Picth Grupo 4](https://img.youtube.com/vi/8Qc5VCqd9qc/0.jpg)](https://www.youtube.com/watch?v=8Qc5VCqd9qc)
+ 
+ 
 
 ### Métodologia: 
 
